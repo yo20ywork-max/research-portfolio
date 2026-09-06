@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `millenniume/millennium-social-os`.
+Source repository identifier: `millenniume/crossgen`.
 
 ## Problem
 

@@ -4,6 +4,15 @@ I build software around practical workflows: AI workspaces, local inference, des
 
 My work spans product requirements, application development, service integration, deployment, debugging, and documentation. The case studies distinguish working implementations, prototypes, and engineering experiments, with limitations stated alongside the evidence.
 
+## Featured project: DanielDoWork
+
+DanielDoWork is my first major software project and the one in which I have invested the most personal effort and self-funded development. It is presented as one product with two substantial engineering components:
+
+- [Web workspace](projects/danieldowork-workspace.md): the user-facing application, workspace data, and product integrations.
+- [AI infrastructure](projects/danieldowork-ai-infrastructure.md): model routing, bridge services, local execution, and worker integration.
+
+This pairing shows the depth of the product work as well as the boundaries between its deployed web application and supporting AI services.
+
 ## Project directory
 
 All 11 source repositories in this collection are represented below. Related repositories are identified as parts or iterations of the same product, so readers can follow both the breadth of the work and its development history.
@@ -18,7 +27,7 @@ All 11 source repositories in this collection are represented below. Related rep
 | [Tianqing — Professional Services Website](projects/tianqing-website.md) | Service content, structured data, technical SEO, content governance | Client website; [public site](https://www.tqcpb.com) |
 | [Millennium — CMS & Customer Service](projects/millennium-company-platform.md) | Business website, content management, customer-service integration | Company-maintained CMS line; [Taiwan](https://www.mgm-360.com) / [North America](https://www.millenniumglobalmarketing.com) |
 | [Millennium — CMS Development Line](projects/millennium-cms-development.md) | Earlier CMS implementation and integration work | Related development repository; same product lineage |
-| [ChatGPT–Codex Bridge](projects/chatgpt-codex-bridge.md) | MCP integration, coding task orchestration, checkpoint and resume | [Public source](https://github.com/yo20ywork-max/gpt-codex-web-bridge) |
+| [ChatGPT–Codex Bridge](projects/chatgpt-codex-bridge.md) | MCP integration, coding task orchestration, checkpoint and resume | [Public source](https://github.com/yo20ywork-max/chatgpt-codex-bridge) |
 | [Development Context & Handoff](projects/development-context.md) | Reproducible project context and cross-machine handoff | Engineering process infrastructure |
 | [FocusOYL — Local AI Translator & Agent](projects/focusoyl.md) | Windows translation, local models, Rust tools, native integration | [Public source and releases](https://github.com/2ykrrmyscg-del/FocusOYL) |
 

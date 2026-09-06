@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `yo20ywork-max/tqcpb-official-site`.
+Source repository identifier: `yo20ywork-max/tqcpb-web`.
 
 ## Problem
 

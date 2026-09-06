@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `yo20ywork-max/gpt-codex-web-bridge`.
+Source repository identifier: `yo20ywork-max/chatgpt-codex-bridge`.
 
 ## Problem
 
@@ -21,7 +21,7 @@ Development of a local integration tool connecting a ChatGPT-facing MCP interfac
 
 ## Evidence and current scope
 
-[Public source](https://github.com/yo20ywork-max/gpt-codex-web-bridge), including its verification matrix and transcripts. The repository records mock and real CLI verification, while the full ChatGPT Web-to-real-Codex end-to-end mission remains unverified in that matrix.
+[Public source](https://github.com/yo20ywork-max/chatgpt-codex-bridge), including its verification matrix and transcripts. The repository records mock and real CLI verification, while the full ChatGPT Web-to-real-Codex end-to-end mission remains unverified in that matrix.
 
 ## Relationship to other work
 

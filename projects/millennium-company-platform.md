@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `millenniume/millennium-cms-line-ai-v4`.
+Source repository identifier: `millenniume/millennium-web`.
 
 ## Problem
 

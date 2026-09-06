@@ -2,7 +2,11 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `yo20ywork-max/overpower`.
+Source repository identifier: `yo20ywork-max/danieldowork-web`.
+
+## Personal investment
+
+DanielDoWork is my first major software project and the project into which I have put the most personal effort and self-funded development. The web application and companion AI infrastructure are presented together as the core of that work.
 
 ## Problem
 

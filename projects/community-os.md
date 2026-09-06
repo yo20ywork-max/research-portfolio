@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `yo20ywork-max/discord-2-0-app`.
+Source repository identifier: `yo20ywork-max/community-os`.
 
 ## Problem
 

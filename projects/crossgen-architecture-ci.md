@@ -2,7 +2,7 @@
 
 [Portfolio](../README.md) · [Project map](../PROJECT_MAP.md)
 
-Source repository identifier: `yo20ywork-max/millennium-social-os-stage00-ci`.
+Source repository identifier: `yo20ywork-max/crossgen-lab`.
 
 ## Problem
 
