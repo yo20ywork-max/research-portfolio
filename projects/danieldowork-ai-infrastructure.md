@@ -36,3 +36,9 @@ For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md)
 ## Public material
 
 [Browse the public presentation](https://github.com/yo20ywork-max/danieldowork-ai-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.
+
+## Browser-conversation planning and execution
+
+DanielDoWork's core concept describes executable capabilities in natural language, uses GPT/Claude/Gemini web conversations to interpret a user's goal, and turns structured responses into trackable tasks for a configured execution runtime. OpenClaw and browser/DOM components provide execution paths, with results returned to the conversation and task state.
+
+The [expanded README](https://github.com/yo20ywork-max/danieldowork-ai-showcase) explains the intended loop, the actual response protocol, queue and event handling, deployment boundaries, and which integration claims still require full-system validation. The task-list vision and existing one-action response protocol are identified separately.
