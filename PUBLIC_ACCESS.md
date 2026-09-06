@@ -1,12 +1,13 @@
 # Public Access Directory
 
-Every link below opens public material. The directory represents 14 original source repositories; related components and iterations are not additional products. Showcase repositories are presentation views of those existing contributions.
+Every link below opens public material. The directory represents 15 original source repositories; related components and iterations are not additional products. Showcase repositories are presentation views of those existing contributions.
 
 | Project | Public material |
 |---|---|
 | [DanielDoWork — AI Workspace](https://github.com/yo20ywork-max/danieldowork-showcase) | Case study + runnable classification excerpt |
 | [DanielDoWork — AI Infrastructure](https://github.com/yo20ywork-max/danieldowork-ai-showcase) | Protocol parser + 9 selected tests |
 | [FocusOYL — Local AI Translator & Agent](https://github.com/2ykrrmyscg-del/FocusOYL) | Source code + releases |
+| [FocusOYL-MathMorph](https://github.com/yo20ywork-max/FocusOYL-MathMorph) | Model-editing research repository |
 | [Focus Oyl — Reminders](https://github.com/yo20ywork-max/focus-oyl-reminders) | Application source + mobile projects |
 | [Privacy Display](https://github.com/yo20ywork-max/privacy-display) | Android source; two iterations |
 | [GameBoost](https://github.com/yo20ywork-max/gameboost) | Backend, desktop client, and node agent source |

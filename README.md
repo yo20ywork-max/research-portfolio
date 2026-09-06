@@ -21,15 +21,22 @@ The public source repository is maintained under my `2ykrrmyscg-del` account and
 
 [View source code](https://github.com/2ykrrmyscg-del/FocusOYL) · [Downloads and releases](https://github.com/2ykrrmyscg-del/FocusOYL/releases) · [Read the case study](projects/focusoyl.md)
 
+## Research project: FocusOYL-MathMorph
+
+[FocusOYL-MathMorph](https://github.com/yo20ywork-max/FocusOYL-MathMorph) explores training-free GGUF spectral editing, mathematical methods, controlled experiments, and negative results. The project repository maintains its research documentation and current publication status.
+
+[Read the research case study](projects/focusoyl-mathmorph.md)
+
 ## Project directory
 
-All 14 source repositories in this collection are represented below. Related repositories are identified as parts or iterations of the same product, so readers can follow both the breadth of the work and its development history.
+All 15 source repositories in this collection are represented below. Related repositories are identified as parts or iterations of the same product, so readers can follow both the breadth of the work and its development history.
 
 | Case study | Engineering focus | Relationship and evidence |
 |---|---|---|
 | [DanielDoWork — AI Workspace](projects/danieldowork-workspace.md) | Full-stack workflow application, workspace data, messaging, personal compute | Main application; [product website](https://www.danieldowork.com) · [Public presentation](https://github.com/yo20ywork-max/danieldowork-showcase) |
 | [DanielDoWork — AI Infrastructure](projects/danieldowork-ai-infrastructure.md) | Model routing, local inference, workers, service integration | Companion infrastructure to DanielDoWork · [Public presentation](https://github.com/yo20ywork-max/danieldowork-ai-showcase) |
 | [FocusOYL — Local AI Translator & Agent](projects/focusoyl.md) | Windows translation, local models, Rust tools, native integration | [Public source and releases](https://github.com/2ykrrmyscg-del/FocusOYL) |
+| [FocusOYL-MathMorph — Model Editing Research](projects/focusoyl-mathmorph.md) | Geometric weight transforms, controlled evaluation, and negative results | [Public research repository](https://github.com/yo20ywork-max/FocusOYL-MathMorph) |
 | [Focus Oyl — Local Reminders](projects/focus-oyl-reminders.md) | Local OCR, reminder extraction, scheduling, and mobile integration | [Public source](https://github.com/yo20ywork-max/focus-oyl-reminders); separate from the FocusOYL translator |
 | [Privacy Display — Android Privacy Overlay](projects/privacy-display.md) | Android services, permissions, notification handling, and image processing | [Public source](https://github.com/yo20ywork-max/privacy-display); two iterations of one app |
 | [GameBoost — Route Evaluation & Tunnels](projects/gameboost.md) | FastAPI, desktop networking, route scores, and WireGuard integration | [Public source](https://github.com/yo20ywork-max/gameboost); prototype with explicit evaluation limits |
@@ -46,6 +53,7 @@ The three public source snapshots added from my original project folders include
 
 ## Areas of technical practice
 
+- **Model evaluation:** separating development and held-out tests, recording negative results, and distinguishing observed improvements from validated claims.
 - **Applied AI systems:** connecting models to usable applications, separating model output from tool execution, and recording evaluation limits.
 - **Full-stack and service integration:** web applications, persistence, authentication, messaging, and local/remote service boundaries.
 - **Desktop and local computation:** packaging, native interfaces, device integration, and local inference.

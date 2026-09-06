@@ -15,6 +15,7 @@ This map preserves every source repository in the portfolio while explaining sha
 | `yo20ywork-max/chatgpt-codex-bridge` | ChatGPT–Codex Bridge | Standalone public integration tool | [Open](https://github.com/yo20ywork-max/chatgpt-codex-bridge) |
 | `yo20ywork-max/dev-context` | Development Context & Handoff | Shared engineering context | [Open](https://github.com/yo20ywork-max/dev-context-showcase) |
 | `2ykrrmyscg-del/FocusOYL` | FocusOYL — Local AI Translator & Agent | Windows translator and a distinct cross-platform agent track | [Open](https://github.com/2ykrrmyscg-del/FocusOYL) |
+| `yo20ywork-max/FocusOYL-MathMorph` | FocusOYL-MathMorph — Model Editing Research | Separate research project on GGUF weight editing and evaluation | [Open](https://github.com/yo20ywork-max/FocusOYL-MathMorph) |
 | `yo20ywork-max/focus-oyl-reminders` | Focus Oyl — Local Reminders & Care Companion | Separate reminder application imported from the original ultramax folder | [Open](https://github.com/yo20ywork-max/focus-oyl-reminders) |
 | `yo20ywork-max/privacy-display` | Privacy Display — Android Privacy Overlay | One app with an initial prototype and a later expanded implementation | [Open](https://github.com/yo20ywork-max/privacy-display) |
 | `yo20ywork-max/gameboost` | GameBoost — Network Route Evaluation | One system containing backend, desktop client, and Linux node agent | [Open](https://github.com/yo20ywork-max/gameboost) |
@@ -26,7 +27,7 @@ This map preserves every source repository in the portfolio while explaining sha
 - The two Millennium CMS repositories belong to the same product lineage. Their separate case studies show implementation and maintenance context.
 - FocusOYL's Windows translator and MiniCPM-based agent use different model/runtime paths. Their validation results are not interchangeable.
 
-- Focus Oyl Reminders and the FocusOYL AI translator are distinct applications despite their shared naming.
+- FocusOYL-MathMorph is a model-editing research project. The FocusOYL translator/agent and Focus Oyl Reminders are distinct applications; their evidence is not interchangeable.
 - Privacy Display's two source directories are development iterations of one project.
 - GameBoost's three runtime components belong to one networking system.
 
