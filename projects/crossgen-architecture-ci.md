@@ -32,3 +32,7 @@ This is a related CrossGen engineering line, not a separate deployed social plat
 Maintainability depends on making assumptions testable and documenting the boundary between a proposed design, implemented code, and accepted behavior.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/crossgen-lab-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

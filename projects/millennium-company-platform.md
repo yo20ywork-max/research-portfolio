@@ -32,3 +32,7 @@ This is the company-maintained CMS repository. The related CMS Development Line 
 A practical CMS must serve editors as well as website visitors. This case focuses on the application and integration work without publishing internal prompts, customer conversations, or unpublished company IP.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/millennium-web-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

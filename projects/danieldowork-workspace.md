@@ -36,3 +36,7 @@ This is the main application repository. The separate DanielDoWork AI Infrastruc
 Web UI, application state, external services, and local compute need explicit boundaries. This project made deployment source tracking and integration diagnosis a practical part of product development.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/danieldowork-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

@@ -32,3 +32,7 @@ The Architecture & CI repository is a related CrossGen engineering workstream. I
 Service permissions, user interaction, and execution environment constraints must be reflected in the product experience. Implementation detail, private workflows, and unpublished company IP are omitted from this case.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/crossgen-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

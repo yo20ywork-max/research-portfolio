@@ -32,3 +32,7 @@ Companion infrastructure for DanielDoWork — AI Workspace, with a distinct serv
 Routing and fallback logic need observable states and realistic failure handling. A successful isolated worker test should be distinguished from a successful full application workflow.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/danieldowork-ai-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

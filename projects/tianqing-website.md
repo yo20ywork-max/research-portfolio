@@ -32,3 +32,7 @@ A client website project. This public case omits contact submissions, private cl
 Reusable content structures reduce inconsistency across pages. For a regulated-service context, accurate wording and source traceability are part of engineering quality.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/tqcpb-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

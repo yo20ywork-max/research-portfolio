@@ -32,3 +32,7 @@ The prototype and starter are two development surfaces within one repository and
 The main design challenge is turning a broad interface concept into a bounded implementation plan, with clear distinctions between simulated behavior, scaffolding, and integrated functionality.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/community-os-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

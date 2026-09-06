@@ -32,3 +32,7 @@ Related to Millennium — CMS & Customer Service. Matching repository names do n
 Separating the maintained deployment source from an earlier working copy makes development effort traceable and helps prevent work from being applied to the wrong project.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/millennium-cms-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.

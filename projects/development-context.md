@@ -32,3 +32,7 @@ Supporting engineering infrastructure used alongside the application projects. I
 Documenting sources of truth and handoff rules helps make iterative, AI-assisted development inspectable and repeatable across sessions.
 
 For the public/private boundary, see [Public Disclosure Scope](../DISCLOSURE.md).
+
+## Public material
+
+[Browse the public presentation](https://github.com/yo20ywork-max/dev-context-showcase). It contains the reviewed material for this contribution, with the publication scope identified. The operational source and private history remain separate.
