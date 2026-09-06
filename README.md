@@ -13,6 +13,14 @@ DanielDoWork is my first major software project and the one in which I have inve
 
 This pairing shows the depth of the product work as well as the boundaries between its deployed web application and supporting AI services.
 
+## Featured open-source project: FocusOYL
+
+[FocusOYL](https://github.com/2ykrrmyscg-del/FocusOYL) is my local AI translator and agent project. It brings together Windows translation software, local model integration, native interfaces, packaging, and a separate cross-platform agent development track.
+
+The public source repository is maintained under my `2ykrrmyscg-del` account and is part of this portfolio alongside the projects under `yo20ywork-max`.
+
+[View source code](https://github.com/2ykrrmyscg-del/FocusOYL) · [Downloads and releases](https://github.com/2ykrrmyscg-del/FocusOYL/releases) · [Read the case study](projects/focusoyl.md)
+
 ## Project directory
 
 All 11 source repositories in this collection are represented below. Related repositories are identified as parts or iterations of the same product, so readers can follow both the breadth of the work and its development history.
@@ -21,6 +29,7 @@ All 11 source repositories in this collection are represented below. Related rep
 |---|---|---|
 | [DanielDoWork — AI Workspace](projects/danieldowork-workspace.md) | Full-stack workflow application, workspace data, messaging, personal compute | Main application; [product website](https://www.danieldowork.com) |
 | [DanielDoWork — AI Infrastructure](projects/danieldowork-ai-infrastructure.md) | Model routing, local inference, workers, service integration | Companion infrastructure to DanielDoWork |
+| [FocusOYL — Local AI Translator & Agent](projects/focusoyl.md) | Windows translation, local models, Rust tools, native integration | [Public source and releases](https://github.com/2ykrrmyscg-del/FocusOYL) |
 | [CrossGen — Social & Workflow Platform](projects/crossgen-platform.md) | Social workflow application and desktop integration | Company-maintained product; [product website](https://www.crossgen-tech.com) |
 | [CrossGen — Architecture & CI](projects/crossgen-architecture-ci.md) | Tenant boundaries, architecture documentation, automated quality checks | Engineering workstream sharing CrossGen history |
 | [Community OS — Collaboration Prototype](projects/community-os.md) | Workspace UI, real-time application architecture, community operations | Frontend prototype and backend starter |
@@ -29,7 +38,6 @@ All 11 source repositories in this collection are represented below. Related rep
 | [Millennium — CMS Development Line](projects/millennium-cms-development.md) | Earlier CMS implementation and integration work | Related development repository; same product lineage |
 | [ChatGPT–Codex Bridge](projects/chatgpt-codex-bridge.md) | MCP integration, coding task orchestration, checkpoint and resume | [Public source](https://github.com/yo20ywork-max/chatgpt-codex-bridge) |
 | [Development Context & Handoff](projects/development-context.md) | Reproducible project context and cross-machine handoff | Engineering process infrastructure |
-| [FocusOYL — Local AI Translator & Agent](projects/focusoyl.md) | Windows translation, local models, Rust tools, native integration | [Public source and releases](https://github.com/2ykrrmyscg-del/FocusOYL) |
 
 ## Areas of technical practice
 
